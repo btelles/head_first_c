@@ -1,0 +1,1 @@
+cards.d: ../cards.c
